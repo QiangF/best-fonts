@@ -10,23 +10,23 @@ Linux最佳中文字体美化方案，含用户目录配置和字体，拷贝到
 ### 效果图
 
 #### 中英混排
-![image](./效果图/中英混排.png)
+![image](./预览/中英混排.png)
 
 #### 终端
-![image](./效果图/终端.png)
+![image](./预览/终端.png)
 
 #### 中文网页
-![image](./效果图/中文网页1.png)
-![image](./效果图/中文网页2.png)
-![image](./效果图/中文网页3.png)
-![image](./效果图/中文网页4.png)
+![image](./预览/中文网页1.png)
+![image](./预览/中文网页2.png)
+![image](./预览/中文网页3.png)
+![image](./预览/中文网页4.png)
 
 #### 英文
-![image](./效果图/英文1.png)
-![image](./效果图/英文2.png)
+![image](./预览/英文1.png)
+![image](./预览/英文2.png)
 
 #### 代码
-![image](./效果图/代码.png)
+![image](./预览/代码.png)
 
 ### 致谢
 本项目大量借鉴金步国先生的作品: http://www.jinbuguo.com/gui/linux_fontconfig.html
